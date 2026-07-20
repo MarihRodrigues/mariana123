@@ -37,31 +37,61 @@ Atualmente estudando:
 
 ---
 
-## Projetos em destaque
+## 🚀 Projetos em Destaque
 
-📱 Gym Manager
+### 📱 Gym Manager
 
-Aplicativo mobile para gerenciamento de academias.
+Aplicação mobile para gestão de academias, desenvolvida para centralizar o gerenciamento de alunos, treinos, planos e controle de frequência.
 
-Tecnologias:
+**Tecnologias:**  
+React Native • Expo • JavaScript • AsyncStorage • Git • GitHub
 
-React Native
-Expo
-SQLite
-JavaScript
+**Destaques:**
+- 👥 Cadastro de alunos
+- 💪 Gerenciamento de treinos
+- 📋 Planos de treino
+- ✅ Controle de frequência
+- 📊 Dashboard para instrutores
+- 📱 Interface responsiva
 
-Destaques
+---
 
-Cadastro de alunos
-Controle de frequência
-Gestão de treinos
-Dashboard
+### 💈 i.Barber
 
-🤖 Estudos em Inteligência Artificial
-Projetos desenvolvidos durante a formação ONE AI for Tech.
+Sistema web para gerenciamento de barbearias, desenvolvido para facilitar o agendamento de serviços, gerenciamento de clientes e administração do negócio.
 
-📊 Cadeias de Markov
-Implementação de algoritmos probabilísticos em Python.
+**Tecnologias:**  
+ASP.NET Core 8 • C# • Entity Framework Core • SQL Server • HTML • CSS • JavaScript • Azure • Git
+
+**Destaques:**
+- 📅 Agendamento, reagendamento e cancelamento de serviços
+- 👥 Controle de acesso por perfil (Cliente, Barbeiro e Administrador)
+- 📊 Painéis administrativos e relatórios
+- ☁️ Deploy no Microsoft Azure (Ubuntu Linux)
+- 🏗️ Arquitetura MVC
+
+---
+
+### 🤖 Estudos em Inteligência Artificial
+
+Projetos desenvolvidos durante a formação **ONE AI for Tech**, explorando Inteligência Artificial Generativa, Agentes de IA, RAG, Engenharia de Prompts e automação de fluxos.
+
+**Tecnologias:**  
+Python • Jupyter Notebook • IA Generativa • RAG • LLMs
+
+---
+
+### 📊 Cadeias de Markov
+
+Implementação de modelos probabilísticos em Python para simulação de processos estocásticos e análise de estados.
+
+**Tecnologias:**  
+Python • NumPy • Probabilidade • Matrizes
+
+**Destaques:**
+- 🔢 Matrizes de transição
+- 📈 Simulação de estados
+- 📚 Modelagem de processos estocásticos
 
 ---
 
