@@ -1,8 +1,17 @@
 # Olá! 👋 Eu sou Mariana
 
-💻 Estudante de Análise e Desenvolvimento de Sistemas pela PUC Minas
+React Native | Expo | JavaScript | AsyncStorage | Git | Python | C# | .NET | SQL | Git | GitHub | Azure
 
-🚀 Desenvolvedora em formação com foco em Desenvolvimento Full Stack, Mobile e Inteligência Artificial.
+<img width="1983" height="793" alt="1" src="https://github.com/user-attachments/assets/168f170d-1c84-4655-a282-40e83898a0c0" />
+
+
+## Sobre mim
+
+Sou estudante de ADS apaixonada por tecnologia.
+
+Tenho interesse em desenvolvimento de software, Inteligência Artificial, automação e análise de dados.
+
+Atualmente participo da formação ONE AI for Tech Brasil, aprofundando conhecimentos em IA Generativa, Agentes de IA, Python e Cloud.
 
 Atualmente estudando:
 
@@ -16,16 +25,37 @@ Atualmente estudando:
 
 ---
 
-## Tecnologias
-
-JavaScript • Python • C# • React Native • ASP.NET Core • SQL Server • SQLite • Git • GitHub • Azure
+| Certificação          | Instituição |
+| --------------------- | ----------- |
+| Tech AI Builder       | ONE         |
+| IMERSÃO DEV COM GOOGLE GEMINI 10ª E DIÇÃO | Alura       |
+| FUNDAMENTOS DE IA: EXPLORANDO A ESTRUTURA E ABORDAGENS DE SISTEMAS          | ONE         |
+| GIT E GITHUB: COMPARTILHANDO E COLABORANDO EM PROJETOS         | ONE         |
+| PENSAMENTO COMPUTACIONAL: FUNDAMENTOS DA COMPUTAÇÃO E LÓGICA DE PROGRAMAÇÃO         | ONE         |
+| Qualificação Profissional de Nível Tecnológico em Desenvolvedor de Software         | PUC Minas   |
+| Algoritimo 40h     | Curso em Video      |
 
 ---
 
 ## Projetos em destaque
 
 📱 Gym Manager
+
 Aplicativo mobile para gerenciamento de academias.
+
+Tecnologias:
+
+React Native
+Expo
+SQLite
+JavaScript
+
+Destaques
+
+Cadastro de alunos
+Controle de frequência
+Gestão de treinos
+Dashboard
 
 🤖 Estudos em Inteligência Artificial
 Projetos desenvolvidos durante a formação ONE AI for Tech.
