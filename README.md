@@ -45,6 +45,7 @@ Implementação de algoritmos probabilísticos em Python.
 
 ## Vamos nos conectar?
 
-LinkedIn
+LinkedIn : Perfil público e URL
+www.linkedin.com/in/mariana-rodrigues-oliveira-amorim
 
-Email
+Email : mariana-rodrigues2011@hotmail.com
