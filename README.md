@@ -2,7 +2,8 @@
 
 React Native | Expo | JavaScript | AsyncStorage | Git  | C# | .NET | SQL | Git | GitHub | Azure
 
-<img width="1983" height="793" alt="1" src="https://github.com/user-attachments/assets/168f170d-1c84-4655-a282-40e83898a0c0" />
+<img width="1983" height="793" alt="imagem" src="https://github.com/user-attachments/assets/7c24943c-bc63-4b42-8637-9ee6ee27e21c" />
+
 
 
 ## Sobre mim
