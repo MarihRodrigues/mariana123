@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Mariana
 
-React Native | Expo | JavaScript | AsyncStorage | Git | Python | C# | .NET | SQL | Git | GitHub | Azure
+React Native | Expo | JavaScript | AsyncStorage | Git  | C# | .NET | SQL | Git | GitHub | Azure
 
 <img width="1983" height="793" alt="1" src="https://github.com/user-attachments/assets/168f170d-1c84-4655-a282-40e83898a0c0" />
 
@@ -9,9 +9,8 @@ React Native | Expo | JavaScript | AsyncStorage | Git | Python | C# | .NET | SQL
 
 Sou estudante de ADS apaixonada por tecnologia.
 
-Tenho interesse em desenvolvimento de software, Inteligência Artificial, automação e análise de dados.
+Tenho interesse em desenvolvimento de software, automação e análise de dados.
 
-Atualmente participo da formação ONE AI for Tech Brasil, aprofundando conhecimentos em IA Generativa, Agentes de IA, Python e Cloud.
 
 Atualmente estudando:
 
@@ -19,17 +18,16 @@ Atualmente estudando:
 - React Native
 - ASP.NET Core
 - SQL
-- Inteligência Artificial
-- Agentes de IA
-- Cloud
+- C#
+
+
+
 
 ---
 
 | Certificação          | Instituição |
 | --------------------- | ----------- |
-| Tech AI Builder       | ONE         |
 | IMERSÃO DEV COM GOOGLE GEMINI 10ª E DIÇÃO | Alura       |
-| FUNDAMENTOS DE IA: EXPLORANDO A ESTRUTURA E ABORDAGENS DE SISTEMAS          | ONE         |
 | GIT E GITHUB: COMPARTILHANDO E COLABORANDO EM PROJETOS         | ONE         |
 | PENSAMENTO COMPUTACIONAL: FUNDAMENTOS DA COMPUTAÇÃO E LÓGICA DE PROGRAMAÇÃO         | ONE         |
 | Qualificação Profissional de Nível Tecnológico em Desenvolvedor de Software         | PUC Minas   |
@@ -70,28 +68,7 @@ ASP.NET Core 8 • C# • Entity Framework Core • SQL Server • HTML • CSS 
 - ☁️ Deploy no Microsoft Azure (Ubuntu Linux)
 - 🏗️ Arquitetura MVC
 
----
 
-### 🤖 Estudos em Inteligência Artificial
-
-Projetos desenvolvidos durante a formação **ONE AI for Tech**, explorando Inteligência Artificial Generativa, Agentes de IA, RAG, Engenharia de Prompts e automação de fluxos.
-
-**Tecnologias:**  
-Python • Jupyter Notebook • IA Generativa • RAG • LLMs
-
----
-
-### 📊 Cadeias de Markov
-
-Implementação de modelos probabilísticos em Python para simulação de processos estocásticos e análise de estados.
-
-**Tecnologias:**  
-Python • NumPy • Probabilidade • Matrizes
-
-**Destaques:**
-- 🔢 Matrizes de transição
-- 📈 Simulação de estados
-- 📚 Modelagem de processos estocásticos
 
 ---
 
@@ -99,7 +76,7 @@ Python • NumPy • Probabilidade • Matrizes
 
 🎯 Buscando oportunidade de estágio em Desenvolvimento de Software.
 
-📚 Estudando IA Generativa, Agentes de IA e React Native.
+📚 Estudando C#, Python e React Native.
 
 ---
 
